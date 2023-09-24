@@ -11,7 +11,6 @@
 
 <div align="center" width="50">
 
-## 🚀 Technologies & Tools
 ### Languages & Skills
 
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
