@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hello, <Developer/>!</h2>
+<h2> Hello, <developers/>!</h2>
 
 </div>
 
