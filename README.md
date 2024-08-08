@@ -8,7 +8,3 @@
 <div align="center" width="50">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/894157148039282729)](https://discord.com/users/894157148039282729)
-      <hr>
-<hr>
-
-<div align="center" width="50">
